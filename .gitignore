@@ -171,3 +171,4 @@ coqui_recipes/*
 local_scripts/*
 coqui_demos/*
 output
+*.wav
